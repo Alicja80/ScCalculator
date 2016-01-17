@@ -1,1 +1,2 @@
 # ScCalculator
+My first repository
