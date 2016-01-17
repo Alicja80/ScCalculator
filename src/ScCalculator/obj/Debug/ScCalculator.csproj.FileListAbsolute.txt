@@ -1,1 +1,2 @@
 c:\users\alicja\documents\visual studio 2015\Projects\ScCalculator\ScCalculator\bin\Debug\ScCalculator.exe.config
+C:\Users\Alicja\Documents\Git\ScCalculator\src\ScCalculator\bin\Debug\ScCalculator.exe.config

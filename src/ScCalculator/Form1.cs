@@ -19,7 +19,7 @@ namespace ScCalculator
 
         private void Calculator_Load(object sender, EventArgs e)
         {
-
+            // OnLoad event handler
         }
     }
 }
