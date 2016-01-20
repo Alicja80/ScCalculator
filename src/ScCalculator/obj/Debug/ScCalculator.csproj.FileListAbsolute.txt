@@ -1,2 +1,10 @@
 c:\users\alicja\documents\visual studio 2015\Projects\ScCalculator\ScCalculator\bin\Debug\ScCalculator.exe.config
 C:\Users\Alicja\Documents\Git\ScCalculator\src\ScCalculator\bin\Debug\ScCalculator.exe.config
+C:\Users\Alicja\Documents\Git\ScCalculator\src\ScCalculator\bin\Debug\ScCalculator.exe
+C:\Users\Alicja\Documents\Git\ScCalculator\src\ScCalculator\bin\Debug\ScCalculator.pdb
+C:\Users\Alicja\Documents\Git\ScCalculator\src\ScCalculator\obj\Debug\ScCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Alicja\Documents\Git\ScCalculator\src\ScCalculator\obj\Debug\ScCalculator.Calculator.resources
+C:\Users\Alicja\Documents\Git\ScCalculator\src\ScCalculator\obj\Debug\ScCalculator.Properties.Resources.resources
+C:\Users\Alicja\Documents\Git\ScCalculator\src\ScCalculator\obj\Debug\ScCalculator.csproj.GenerateResource.Cache
+C:\Users\Alicja\Documents\Git\ScCalculator\src\ScCalculator\obj\Debug\ScCalculator.exe
+C:\Users\Alicja\Documents\Git\ScCalculator\src\ScCalculator\obj\Debug\ScCalculator.pdb
